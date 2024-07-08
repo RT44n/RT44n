@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RT44n
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Node JS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love F1 and Anime
 
